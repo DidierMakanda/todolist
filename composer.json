@@ -1,0 +1,18 @@
+{
+    "require": {
+        "doctrine/orm": "2.3.4",
+        "slim/slim": "2.*"
+    },
+    "autoload": {
+        "classmap": [
+            "libs"
+        ]
+    },
+    "doctrine/cache": "~1.6.2",
+    "config": {
+		"platform": {
+			"php": "5.6"
+		}
+	}
+
+}
